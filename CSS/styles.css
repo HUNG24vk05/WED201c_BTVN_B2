@@ -1,0 +1,27 @@
+.header{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: #c6c1c1;
+}
+
+.header-logo img{
+    width: 30%;
+}
+
+.header-content ul a{
+    text-decoration: none;
+}
+.header-content ul{
+    list-style: none;
+}
+.header-content ul a{
+    color:aliceblue;
+}
+.header-content ul{
+    display: flex;
+}
+
+.header-search form button {
+    color:rgb(226, 95, 9)
+}
